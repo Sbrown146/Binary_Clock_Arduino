@@ -6,6 +6,7 @@ A Binary Clock using an Arduino Uno and over 50 LEDS to display the time, date a
 This project was initially used as a means to introduce myself to the basics of C++ and its differences with Javascript but grew into a near finished prototype to display the time using LEDS in binary.  This circuit includes the following components:
 
 1 Arduino Uno (or MC with at least 15 pin outs)
+
 9 74HC595 ICs
 1 DS3231 I2C RTC Module Clock Timer
 1 LCD 1602 Module
